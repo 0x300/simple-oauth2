@@ -62,5 +62,8 @@
     "nock": "^9.2.3",
     "nyc": "^11.6.0"
   },
+  "publishConfig": {
+    "registry": "http://npm.int.eprize.net"
+  },
   "license": "Apache-2.0"
 }
